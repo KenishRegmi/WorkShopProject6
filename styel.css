@@ -1,0 +1,11 @@
+body{
+    background-color: purple;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.homecontainer{
+    text-align: center;
+}
